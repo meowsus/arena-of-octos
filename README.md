@@ -6,6 +6,12 @@ My uncle, Alan Johnston, was co-creator and wrote the TRS-80 version. This was t
 
 SoftSide, the publishing company and owner of the game, has lone been out of business, so I am assuming I am not breaking any copyright laws by publishing this. If I am please get in touch and I will gladly remove the code.
 
+## Working Example
+http://meows.us/octos
+
+## Known bugs
+- cannot die, players are immortal (discovered at Level 3, error line 2610)
+
 ## Explanation of Variables
 
 Variable | Description
@@ -43,6 +49,3 @@ Variable | Description
 `WK` | Weakest Octon's strength
 `X1,Y1` | Temporary X and Y locations
 `X,Y` | Graphics variables
-
-## Known bugs
-- cannot die, players are immortal (discovered at Level 3, error line 2610)
