@@ -43,3 +43,6 @@ Variable | Description
 `WK` | Weakest Octon's strength
 `X1,Y1` | Temporary X and Y locations
 `X,Y` | Graphics variables
+
+## Known bugs
+- cannot die, players are immortal (discovered at Level 3, error line 2610)
