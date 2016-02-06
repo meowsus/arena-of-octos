@@ -11,6 +11,7 @@ http://meows.us/octos
 
 ## Known bugs
 - cannot die, players are immortal (discovered at Level 3, error line 2610)
+- when Octons occupy the same space, one will disappear until it's turn
 
 ## Explanation of Variables
 
