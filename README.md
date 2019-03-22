@@ -2,9 +2,9 @@
 
 This is a straight copy of the source code of the Apple II/TRS-80 game [Arena of Octos](https://en.wikipedia.org/wiki/Arena_of_Octos), as published in a 1981 issue of SoftSide magazine.
 
-My uncle, Alan Johnston, was co-creator and wrote the TRS-80 version. This was the only program he ever had published. He died in late January, 2016, so this is my homage to him.
+My uncle, Alan Johnston, was co-creator and wrote the TRS-80 version. This was the only program he ever had published. He passed away in January, 2016, so this is my homage to him.
 
-SoftSide, the publishing company and owner of the game, has lone been out of business, so I am assuming I am not breaking any copyright laws by publishing this. If I am please get in touch and I will gladly remove the code.
+SoftSide, the publishing company and owner of the game, has long been out of business, so I am assuming I am not breaking any copyright laws by publishing this. If I am please get in touch and I will gladly remove the code.
 
 ## Working Example
 https://portugly.com/meowsus/octos
